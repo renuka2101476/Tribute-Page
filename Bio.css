@@ -1,0 +1,100 @@
+
+
+.nav{
+    font-size: 20px;
+    padding: 8px;
+    font-weight: 100px ;
+    text-decoration: none ;
+}
+body{
+    
+    margin: 1;
+    background-color: aliceblue;
+    
+}
+
+h1{
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    text-align: center;
+    color: black;
+    font-style: bold;
+    font-family:Lucida Console, Courier New, monospace;
+    text-shadow: 4px 4px 8px rgb(216, 176, 176);
+    font-size: 50px;
+}
+
+.image{
+ width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  opacity: 0.9;
+}
+
+h4{
+    font-size: 28px;
+    color: rgb(55, 189, 234);
+    font-style: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-right: 600px;
+    padding-top: 50px;
+    margin: 0;
+  
+    
+}
+
+#para{
+    font-size: 23px;
+    color: rgb(0, 6, 8);
+    font-style: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    padding-left: 80px;
+    padding-top: 40px;
+    padding-right: 50px;
+}
+
+.Con{
+    display: flex;
+}
+
+.Con1{
+    display: flex;
+}
+
+#div1{
+   margin-right: 70px;
+   margin-left: 50px;
+   font-size: 20px;
+   
+}
+
+#div2{
+    font-size: 20px;
+}
+
+#div3{
+    
+    margin-right: 70px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+#div4{
+    font-size: 20px;
+}
+
+
+table,th,td{
+    border: 1px solid black;
+  border-collapse: collapse;
+  padding: 2px;
+  height: 40px;
+  width: 650px;
+  text-align: center;
+}
